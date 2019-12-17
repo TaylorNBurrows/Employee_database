@@ -1,0 +1,37 @@
+id,title,salary,department_id
+10,CEO,300000,200
+11,CFO,250000,200
+12,CTO,250000,200
+16,"VP Sales",195000,201
+17,"Sales Manager",100000,201
+18,"Account Executive",75000,201
+19,SDR,45000,201
+20,"Finance and Accounting Manager",100000,202
+21,"Financial Analyst",75000,202
+22,"Financial Associate",45000,202
+23,"Director Customer Svc",155000,203
+24,"Customer Service Manager",100000,203
+25,"Customer Service Rep",40000,203
+26,"Customer Service Coordinator",35000,203
+27,"Director of Operations",155000,204
+28,"Operations Manager",100000,204
+29,"Operations Specialist",55000,204
+30,"Operations Representitive",35000,204
+31,"VP Technology",210000,205
+32,"Engineering Manager",175000,205
+33,"Senior Engineer",150000,205
+34,Engineer,105000,205
+35,"Office Manager",55000,206
+36,Receptionist,35000,206
+37,"VP Human Resources",195000,207
+38,"HR Manager",100000,207
+39,"HR Generalist",75000,207
+40,"Payroll Specialist",45000,207
+41,"VP Product",195000,208
+42,"Product Manager",100000,208
+43,"Product Analyst",75000,208
+44,"Legal Council",125000,209
+45,"Staff Attorney",100000,209
+46,"Accounting Manager",100000,210
+47,"Accounting Specialist",65000,210
+48,"Accounting Coordinator",45000,210
