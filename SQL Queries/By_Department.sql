@@ -5,3 +5,4 @@ FROM employee E
   JOIN role R ON E.role_id = R.id 
   JOIN department D ON D.id = r.department_id
   
+WHERE department_id = 200;
